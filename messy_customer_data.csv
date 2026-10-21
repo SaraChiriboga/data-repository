@@ -1,0 +1,21 @@
+customer_id,full_name,age,email_address,registration_date,total_spent,favorite_category,account_status
+101,Alice Smith,25,alice@example.com,2023-01-15,150.5,Electronics,Active
+102,Bob Jones,30,bob.example.com,15/02/2023,"200,00",Clothing,Inactive
+103,Charlie Brown,twenty-two,charlie@domain.com,2023-03-10,50.0,electronics,Active
+103,Charlie Brown,22,charlie@domain.com,2023-03-10,50.0,electronics,Active
+104,David Lee,999,david@example,2023/04/05,-100.0,Home,Pending
+105,Eve Davis,45,eve@example.com,05-05-2023,300.75, ClOThiNG ,active
+106,Frank White,33,frank.white@example.com,2023-06-12,,Electronics,Inactive
+107,Grace Hall,-5,grace@example.com,2023-07-20,120.0,Books,Active
+108,Heidi King,28,heidi_king@example.com,2023-08-15,150 USD,books,Pending
+109,Ivan Wright,,ivan@example.com,2023-09-01,90.5,Home,Inactive
+110,Judy Scott,35,judy@example.com,"Oct 10, 2023",400.0,Electronics,Active
+111,Kevin Green,40,kevin@example.com,2023-11-05,55.0,Clothing,Inactive
+112,Laura Baker,?,laura@example.com,2023-12-01,210.0,Furniture,pend
+113,Mallory Adams,29,mallory@example.com,2024-01-15,30.0,Books,Active
+114,Ned Nelson,31,ned@example.com,2024-02-20,75.0,Electronics,Inactive
+115,Oscar Carter,50,oscar@example.com,2024-03-10,500.0,Clothing,Active
+116,Peggy Sue,27,peggy@domain.com,2024-04-12,85.5,Beauty,Active
+117,Quinn Taylor,42,quinn@test.com,18-05-2024,320.0,Sports,Inactive
+118,Ralph Lauren,60,ralph@example.com,2024-06-30,NaN,Clothing,Active
+119,Steve Jobs,,steve@apple.com,2024-07-15,1050.0,Electronics,Suspended
